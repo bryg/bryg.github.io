@@ -1,0 +1,8 @@
+baseURL = 'https://bryg.github.io/'
+languageCode = 'en-us'
+title = 'Root Access'
+theme = 'terminal'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
